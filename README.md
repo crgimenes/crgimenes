@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="centre">
+
 #Hi <img src="./assets/hi.gif" width="29px">,I'm Cesar!
+
 ##Technical Manager at <a href="https://nuveo.ai">Nuveo</a>
+
 </div>
 
 - 📝 I regularly write articles on [http://crg.eti.br](http://crg.eti.br)
