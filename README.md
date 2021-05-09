@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>Hi <a href="https://crg.eti.br" target="_blank"><img src="./assets/hi.gif" width="29px"></a>, I'm Cesar!</h1>
-<h2>Technical Manager at <a href="https://nuveo.ai">Nuveo</a><h2>
+<h2>Technical Manager at <a href="https://nuveo.ai">Nuveo</a></h2>
 
 - 📝 I regularly write articles on [http://crg.eti.br](http://crg.eti.br)
 - 📫 How to reach me **crg@crg.eti.br**
