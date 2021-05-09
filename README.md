@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Cesar</h1>
-<h3 align="center">Technical Manager na <a href="https://nuveo.ai">Nuveo</a></h3>
+<h3 align="center">Technical Manager at <a href="https://nuveo.ai">Nuveo</a></h3>
 
 - 📝 I regularly write articles on [http://crg.eti.br](http://crg.eti.br)
-
 - 📫 How to reach me **crg@crg.eti.br**
 
 <h3 align="left">Languages and Tools:</h3>
