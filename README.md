@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi <a href="https://crg.eti.br" target="_blank"><img src="./assets/hi.gif" width="29px"></a>, I'm Cesar!</h1>
+<h1>Hi, I'm Cesar!</h1>
 
 Technical Manager at [Nuveo](https://nuveo.ai)
 
