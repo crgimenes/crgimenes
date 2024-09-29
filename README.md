@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Cesar Gimenes!
 
-![Cesar Gimenes](https://crg.eti.br/logo.svg)
-
 Welcome to my GitHub profile! I'm a passionate software developer who loves exploring new technologies and sharing knowledge with the community.
 
 ## 🌐 About Me
