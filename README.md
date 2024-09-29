@@ -1,35 +1,45 @@
-<!--
-**crgimenes/crgimenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Cesar Gimenes!
 
-Here are some ideas to get you started:
+![Cesar Gimenes](https://crg.eti.br/logo.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm a passionate software developer who loves exploring new technologies and sharing knowledge with the community.
 
-<h1>Hi, I'm Cesar!</h1>
+## 🌐 About Me
 
-- 📝 I regularly write articles on [crg.eti.br](https://crg.eti.br)
-- 📫 How to reach me **crg@crg.eti.br**
+- 📝 I regularly write articles on my [personal blog](https://crg.eti.br) about programming, technology, and more.
+- 💼 Currently working on exciting projects involving Go, C, and C++.
+- 🌱 Always learning and experimenting with new tools and frameworks.
+- ⚡ Fun fact: I'm a terminal enthusiast and enjoy tinkering with cli software.
 
-<h2 align="left">Languages and Tools:</h3>
+## 📈 GitHub Stats
+
+[![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesargimenes&show_icons=true&theme=dark)](
+
+## 🔧 Languages & Tools
+
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+  <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> </a>
 </p>
 
+## 🤝 Let's Connect
+
+- 📫 **Email**: [crg@crg.eti.br](mailto:crg@crg.eti.br)
+- 🌐 **Website**: [crg.eti.br](https://crg.eti.br)
+- 💬 Feel free to reach out for collaboration or just a friendly chat!
+
+## 🏷️ Fun Stuff
+
 <a href="https://wigle.net">
-<img border="0" src="https://wigle.net/bi/Bav+rJkobnnE78b9z1AXww.png">
+  <img border="0" src="https://wigle.net/bi/Bav+rJkobnnE78b9z1AXww.png" alt="Wigle WiFi Stats">
 </a>
+
+---
+
+Thanks for visiting my profile! Have a great day! 😊
 
