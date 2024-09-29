@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves expl
 
 - 📝 I regularly write articles on my [personal blog](https://crg.eti.br) about programming, technology, and more.
 - 💼 Currently working on exciting projects involving Go, C, and C++.
-- 🌱 Always learning and experimenting with new tools and frameworks.
 - ⚡ Fun fact: I'm a terminal enthusiast and enjoy tinkering with cli software.
+- 🎨 I'm also interested in generative art and creative coding.
 
 ## 🔧 Languages & Tools
 
