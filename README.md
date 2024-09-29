@@ -11,10 +11,6 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves expl
 - 🌱 Always learning and experimenting with new tools and frameworks.
 - ⚡ Fun fact: I'm a terminal enthusiast and enjoy tinkering with cli software.
 
-## 📈 GitHub Stats
-
-[![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesargimenes&show_icons=true&theme=dark)](
-
 ## 🔧 Languages & Tools
 
 <p align="left">
